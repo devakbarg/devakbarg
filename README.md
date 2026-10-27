@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akbar
+# 👋 Hi
 
 Indie hacker building tools that solve real problems.
 
